@@ -1,6 +1,6 @@
 ### Olá nobre desbravador! 👋
 
-✨Sobre mim:
+✨**Sobre mim:**
 
 Sou desenvolvedor a um pouquinho de tempo e nessa jornada já passei por grandes empresas que me ofereceram um vasto campo de aprendizado.
 Dessa forma hoje atuo de forma tranquila nos desafios que tenho e que vou encontrar nessa jornada que gosto de percorrer.
@@ -8,16 +8,16 @@ Se quiser saber um pouco mais, acessa meu [linkedin aqui](https://www.linkedin.c
 
 ---
 
-⚡ Curiosidade:
+⚡ ***Curiosidade:**
 
 Meu github se baseia em material de estudo e desafíos feitos para empresas. Muitos desafios eu faço mais para estudo e para facilitar separei os repositórios em um controle mais abaixo.
 
-Nesse print aqui eu coloquei o andamento do meu conhecimento sobre algumas linguagens e áreas de atuação. Assim fica mais fácil entender no que atuo. :)
+Nesse print aqui eu coloquei o andamento do meu conhecimento sobre algumas linguagens e áreas de atuação. Assim fica mais fácil entender no que atuo. :smiley:
 ![Habilidades Categorizadas](habilidades_categorizadas.jpg)
 
 ---
 
-🌱 O que estudo:
+🌱 **O que estudo:**
 
 | Objetivo          | Stack                | Repositório                                                                                 |
 | ----------------- | -------------------- | ------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ Nesse print aqui eu coloquei o andamento do meu conhecimento sobre algumas lingu
 
 ---
 
-😄 Desafios realizados:
+😄 **Desafios realizados:**
 | Desafiante     | Stack           | Repositório                                                                                    |
 | -------------- | --------------- | -----------------------------------------------------------------------------------------------|
 | Zoox           | JS, HTML, CSS   | [teste-zoox →](https://github.com/thiagoadriano/teste-zoox)                                    |
@@ -58,7 +58,7 @@ Nesse print aqui eu coloquei o andamento do meu conhecimento sobre algumas lingu
 
 ---
 
-🔭 Coisas que já fiz:
+🔭 **Coisas que já fiz:**
 | Projeto                | Stack              | Repositório                                                                          |
 | -----------------------| ------------------ | ------------------------------------------------------------------------------------ |
 | Complexity Table       | JS, HTML, CSS      | [complexity-table →](https://github.com/thiagoadriano/complexity-table)              |
@@ -71,7 +71,7 @@ Nesse print aqui eu coloquei o andamento do meu conhecimento sobre algumas lingu
 
 ---
 
-📫 Como chegar até mim:
+📫 **Como chegar até mim:**
 
 **email:** [thiago.s.adriano@gmail.com](mailto:thiago.s.adriano@gmail.com?subject=Encontrei%20seu%20github%20e%20preciso%20falar%20com%20você) | [contato@thiagoadriano.com.br](mailto:contato@thiagoadriano.com.br?subject=Encontrei%20seu%20github%20e%20preciso%20falar%20com%20você)
 
@@ -92,5 +92,8 @@ Abraços!
 - 📫 Como chegar até mim: ...
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
+
+Smilys
+https://gist.github.com/rxaviers/7360908#file-gistfile1-md
 
 -->
