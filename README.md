@@ -45,6 +45,7 @@ Nesse print aqui eu coloquei o andamento do meu conhecimento sobre algumas lingu
 😄 **Desafios realizados:**
 | Desafiante     | Stack           | Repositório                                                                                    |
 | -------------- | --------------- | -----------------------------------------------------------------------------------------------|
+| ThoughtWorks   | JS              | [teste-thought-works →](https://github.com/thiagoadriano/teste-thought-works)                  |
 | Zoox           | JS, HTML, CSS   | [teste-zoox →](https://github.com/thiagoadriano/teste-zoox)                                    |
 | Concrete       | JS, HTML, CSS   | [teste-concrete →](https://github.com/thiagoadriano/teste-concrete)                            |
 | Intelie        | JS, HTML, CSS   | [teste-intelie →](https://github.com/thiagoadriano/teste-intelie)                              |
