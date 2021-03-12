@@ -25,6 +25,7 @@ Nesse print aqui eu coloquei o andamento do meu conhecimento sobre algumas lingu
 | Flutter APP       | Fluter, Dart         | [flutter-estudo-3 →](https://github.com/thiagoadriano/flutter-estudo-3)                     |
 | Flutter APP       | Fluter, Dart         | [flutter-estudo-2 →](https://github.com/thiagoadriano/flutter-estudo-2)                     |
 | Flutter APP       | Fluter, Dart         | [flutter-estudo-1 →](https://github.com/thiagoadriano/flutter-estudo-1)                     |
+| Python            | py                   | [estudo-python-basico →](https://github.com/thiagoadriano/estudo-python-basico)             |
 | Projetos Desafios | JS, HTML, CSS        | [estudo-projetos →](https://github.com/thiagoadriano/estudo-projetos)                       |
 | Spotify           | JS, HTML, CSS        | [estudo-spotify-wrapper →](https://github.com/thiagoadriano/estudo-spotify-wrapper)         |
 | TDD               | JS                   | [estudo-js-tdd →](https://github.com/thiagoadriano/estudo-js-tdd)                           |
@@ -43,25 +44,37 @@ Nesse print aqui eu coloquei o andamento do meu conhecimento sobre algumas lingu
 ---
 
 😄 **Desafios realizados:**
-| Desafiante     | Stack           | Repositório                                                                                    |
-| -------------- | --------------- | -----------------------------------------------------------------------------------------------|
-| ThoughtWorks   | JS              | [teste-thought-works →](https://github.com/thiagoadriano/teste-thought-works)                  |
-| Zoox           | JS, HTML, CSS   | [teste-zoox →](https://github.com/thiagoadriano/teste-zoox)                                    |
-| Concrete       | JS, HTML, CSS   | [teste-concrete →](https://github.com/thiagoadriano/teste-concrete)                            |
-| Intelie        | JS, HTML, CSS   | [teste-intelie →](https://github.com/thiagoadriano/teste-intelie)                              |
-| ContaAzul      | JS, HTML, CSS   | [teste-contaazul-cardweather →](https://github.com/thiagoadriano/teste-contaazul-cardweather)  |
-| Loggi          | JS              | [teste-loggi →](https://github.com/thiagoadriano/teste-loggi)                                  |
-| Wooza          | JS, HTML, CSS   | [teste-wooza →](https://github.com/thiagoadriano/teste-wooza)                                  |
-| ContaAzul      | JS, HTML, CSS   | [teste-conta-azul →](https://github.com/thiagoadriano/teste-conta-azul)                        |
-| Profit-e       | JS, HTML, CSS   | [get-devs →](https://github.com/thiagoadriano/get-devs)                                        |
-| Feng           | JS, HTML, CSS   | [desafio-feng →](https://github.com/thiagoadriano/desafio-feng)                                |
-| HugeInc        | JS, HTML, CSS   | [Dev-Teste-HugeInc →](https://github.com/thiagoadriano/Dev-Teste-HugeInc)                      |
+| Desafiante     | Stack             | Repositório                                                                                    |
+| -------------- | ----------------- | -----------------------------------------------------------------------------------------------|
+| ThoughtWorks   | JS                | [teste-thought-works →](https://github.com/thiagoadriano/teste-thought-works)                  |
+| Meta *         | JS                | [teste-meta-api →](https://github.com/thiagoadriano/teste-meta-api)                            |
+| Amparo *       | JS, HTML, CSS     | [teste-amparo →](https://github.com/thiagoadriano/teste-amparo)                                |
+| Gyra+ *        | JS, HTML, CSS     | [teste-gyra-mais →](https://github.com/thiagoadriano/teste-gyra-mais)                          |
+| ZooxSmart *    | JS, HTML, CSS     | [teste-zoox-smart →](https://github.com/thiagoadriano/teste-zoox-smart)                        |
+| Concrete **    | JS, HTML, CSS     | [teste-concrete →](https://github.com/thiagoadriano/teste-concrete)                            |
+| Olist **       | PY, JS, HTML, CSS | [work-at-olist →](https://github.com/thiagoadriano/work-at-olist)                              |
+| B2W **         | JS, HTML, CSS     | [teste-b2w →](https://github.com/thiagoadriano/teste-b2w)                                      |
+| Intelie **     | JS                | [teste-intelie-api →](https://github.com/thiagoadriano/teste-intelie-api)                      |
+| Stilingue **   | JS                | [teste-stilingue →](https://github.com/thiagoadriano/teste-stilingue)                          |
+| Stone **       | JS, HTML, CSS     | [teste-stone →](https://github.com/thiagoadriano/teste-stone)                                  |
+| VMLBrasil **   | JS, HTML, CSS     | [teste-vmlbrasil →](https://github.com/thiagoadriano/teste-vmlbrasil)                          |
+| Winnin **      | JS, HTML, CSS     | [teste-winnin →](https://github.com/thiagoadriano/teste-winnin)                                |
+| Intelie        | JS, HTML, CSS     | [teste-intelie →](https://github.com/thiagoadriano/teste-intelie)                              |
+| ContaAzul      | JS, HTML, CSS     | [teste-contaazul-cardweather →](https://github.com/thiagoadriano/teste-contaazul-cardweather)  |
+| Loggi          | JS                | [teste-loggi →](https://github.com/thiagoadriano/teste-loggi)                                  |
+| Wooza          | JS, HTML, CSS     | [teste-wooza →](https://github.com/thiagoadriano/teste-wooza)                                  |
+| ContaAzul      | JS, HTML, CSS     | [teste-conta-azul →](https://github.com/thiagoadriano/teste-conta-azul)                        |
+| Profit-e       | JS, HTML, CSS     | [get-devs →](https://github.com/thiagoadriano/get-devs)                                        |
+| Feng **        | JS, HTML, CSS     | [desafio-feng →](https://github.com/thiagoadriano/desafio-feng)                                |
+| HugeInc        | JS, HTML, CSS     | [Dev-Teste-HugeInc →](https://github.com/thiagoadriano/Dev-Teste-HugeInc)                      |
 
 ---
+
 
 🔭 **Coisas que já fiz:**
 | Projeto                | Stack              | Repositório                                                                          |
 | -----------------------| ------------------ | ------------------------------------------------------------------------------------ |
+| OCC Deploy Tools       | JS                 | [occ-deploy-tools →](https://github.com/thiagoadriano/occ-deploy-tools)              |
 | Complexity Table       | JS, HTML, CSS      | [complexity-table →](https://github.com/thiagoadriano/complexity-table)              |
 | Contatos WhatsApp      | PHP, JS, HTML, CSS | [contatos-whatsapp →](https://github.com/thiagoadriano/contatos-whatsapp)            |
 | Base PHP site          | PHP                | [basesitephp →](https://github.com/thiagoadriano/basesitephp)                        |
