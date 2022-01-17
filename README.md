@@ -13,7 +13,8 @@ Se quiser saber um pouco mais, acessa meu [linkedin aqui](https://www.linkedin.c
 Meu github se baseia em material de estudo e desafíos feitos para empresas. Muitos desafios eu faço mais para estudo e para facilitar separei os repositórios em um controle mais abaixo.
 
 Nesse print aqui eu coloquei o andamento do meu conhecimento sobre algumas linguagens e áreas de atuação. Assim fica mais fácil entender no que atuo. :smiley:
-![Habilidades Categorizadas](habilidades_categorizadas.jpg)
+![Habilidades Categorizadas](habilidades_categorizadas_v2![habilidades_categorizadas_v2](https://user-images.githubusercontent.com/4551795/149808767-cc6ae761-35e9-4e5e-81fd-9c8c7dc4bf9e.jpg)
+.jpg)
 
 ---
 
